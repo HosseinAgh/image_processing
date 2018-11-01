@@ -1,0 +1,1 @@
+--Histogram_equalization 	--> histogram equalization for increasing Enhancement with opencv(C++)
