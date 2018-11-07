@@ -14,7 +14,7 @@ int main() {
 		h[i] = 0;
 	}
 
-	Mat image = imread("pout.tif", 0); //read the image
+	Mat image = imread("I0000038.jpg", 0); //read the image
 	Mat image_out = image.clone();  //copy of original image for output image
 	const int r = image.rows; //get  size().height image
 	const int c = image.cols; //get size().width image
@@ -46,7 +46,7 @@ int main() {
 	imshow("contrast", image_out);
 	waitKey(0);
 
-	imwrite("image.tif", image_out); // save the output image
+	imwrite("MRI.jpg", image_out); // save the output image
 
 	return 0;
 }
