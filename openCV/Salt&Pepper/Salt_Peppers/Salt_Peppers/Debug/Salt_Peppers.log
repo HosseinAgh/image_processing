@@ -1,6 +1,0 @@
-﻿  main.cpp
-f:\my file\project\image_processing\opencv\salt&pepper\salt_peppers\salt_peppers\main.cpp(25): warning C4305: 'argument': truncation from 'double' to 'float'
-f:\my file\project\image_processing\opencv\salt&pepper\salt_peppers\salt_peppers\main.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-f:\my file\project\image_processing\opencv\salt&pepper\salt_peppers\salt_peppers\main.cpp(64): warning C4715: 'Sort': not all control paths return a value
-  Salt_Peppers.vcxproj -> F:\My file\Project\image_processing\openCV\Salt&Pepper\Salt_Peppers\Debug\Salt_Peppers.exe
-  Salt_Peppers.vcxproj -> F:\My file\Project\image_processing\openCV\Salt&Pepper\Salt_Peppers\Debug\Salt_Peppers.pdb (Full PDB)

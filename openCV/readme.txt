@@ -1,5 +1,5 @@
 --Histogram_equalization 	--> histogram equalization for increasing Enhancement with opencv(C++)
-
+--Salt&Pepper                   --> adding salt and pepper noise and noise eliminitaion with median filter
 
 
 --document for opencv

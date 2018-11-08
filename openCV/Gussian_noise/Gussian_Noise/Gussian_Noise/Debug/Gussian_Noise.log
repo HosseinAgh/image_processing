@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\my file\project\image_processing\opencv\gussian_noise\gussian_noise\gussian_noise\main.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+f:\my file\project\image_processing\opencv\gussian_noise\gussian_noise\gussian_noise\main.cpp(28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Gussian_Noise.vcxproj -> F:\My file\Project\image_processing\openCV\Gussian_noise\Gussian_Noise\Debug\Gussian_Noise.exe
+  Gussian_Noise.vcxproj -> F:\My file\Project\image_processing\openCV\Gussian_noise\Gussian_Noise\Debug\Gussian_Noise.pdb (Full PDB)
